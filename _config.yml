@@ -8,7 +8,7 @@ description: Weather Blogger
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-baseurl: "vaiyai-ramanan-blog"
+# baseurl: "vaiyai-ramanan-blog"
 url: https://vaiyai-ramanan-blog.github.io/
 
 # Your disqus username, entering this will enable commenting on posts
