@@ -1,5 +1,5 @@
 ---
-title: KATHIRI VEYIL STARTS!! :sunny:
+title: KATHIRI VEYIL STARTS!!
 layout: post
 permalink: /kathiri-veyil-starts
 ---
