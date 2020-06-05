@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: Getting started - My first blog
 layout: post
 permalink: /getting-started
 ---
