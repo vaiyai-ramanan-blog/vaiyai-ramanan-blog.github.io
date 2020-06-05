@@ -1,10 +1,8 @@
 
 ---
-
-layout: page
-title: ENJOY BENGALURU!!! :smile: :umbrella: :cloud: :simple_smile:
+title: ENJOY BENGALURU!!! :smile:  :umbrella:  :cloud: :simple_smile:
+layout: post
 permalink: /enjoy-bengaluru
-
 ---
 
 It will be Interior Karnataka day today, BENGALURU has bright chances for some "severe" thunderstorms today evening , please take your umbrellas/rain coats for work :umbrella:
