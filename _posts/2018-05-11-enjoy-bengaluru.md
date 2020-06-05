@@ -1,6 +1,6 @@
 ---
-title: ENJOY BENGALURU!!! :smile:  :umbrella:  :cloud: :simple_smile:
 layout: post
+title: ENJOY BENGALURU!!!
 permalink: /enjoy-bengaluru
 ---
 
