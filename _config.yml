@@ -1,15 +1,40 @@
-theme: jekyll-theme-midnight
-
-# The name of your site (displayed in the header)
+title: "Vaiyai Ramanan's Weather Blog"
 name: Vaiyai Ramanan
+author.name: Vaiyai Ramanan
+description: >- # this means to ignore newlines until "baseurl:"
+   Weather Blogger
+baseurl: "/"
+github_username:  vaiyai-ramanan-blog
 
-# A short bio or description (displayed in the header)
-description: Weather Blogger
-
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-# baseurl: "vaiyai-ramanan-blog"
-url: https://vaiyai-ramanan-blog.github.io/
-
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  
+comments:
+    provider: "staticman"
+    staticman:
+    allowedFields          : ['name', 'email', 'url', 'message']
+    branch                 : "master"
+    commitMessage          : "New comment."
+    filename               : comment-{@timestamp}
+    format                 : "yml"
+    moderation             : false
+    path                   : "_data/comments/{options.slug}"
+    requiredFields         : ['name', 'email', 'message']
+    transforms:
+      email                : "md5"
+    generatedFields:
+      date:
+    type               : "date"
+    options:
+     format           : "iso8601"
+  
 # Your disqus username, entering this will enable commenting on posts
 disqus: vaiyairamanan
