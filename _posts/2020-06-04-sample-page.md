@@ -5,3 +5,5 @@ title: Getting Started with Github pages
 layout: post
 permalink: /sample-page
 ---
+
+First Github page
