@@ -2,7 +2,7 @@
 layout: post
 title: KATHIRI VEYIL STARTS!! :sunny:
 date:   2018-05-01 13:15:00 -0530
-permalink: /01-may-2018/
+permalink: /kathiri-veyil-in-chennai
 comments: true
 ---
 Kathiri veyyil begins today on the subdued note. :sunny:
