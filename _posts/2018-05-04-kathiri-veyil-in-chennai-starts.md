@@ -1,9 +1,9 @@
 ---
 layout: post
 title: KATHIRI VEYIL STARTS!! :sunny:
-date:   2018-05-01 13:15:00 -0530
-permalink: /kathiri-veyil-in-chennai
-comments: true
+#date:   2018-05-01 13:15:00 -0530
+permalink: /kathiri-veyil-in-chennai-starts
+#comments: true
 ---
 Kathiri veyyil begins today on the subdued note. :sunny:
 Temperatures to roam around 37 degrees over coastal areas.
